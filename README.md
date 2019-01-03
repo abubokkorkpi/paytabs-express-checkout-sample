@@ -34,7 +34,7 @@ PayTabs Express Checkout is a solution that provides an efficient checkout proce
 shoppers which keeps them on the merchant’s website while making a payment and even after the
 payment is complete.
 
-![image](/docs/img/checkout2.png)
+![image](/screenshot.png)
 
 ## Request 
 
