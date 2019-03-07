@@ -27,7 +27,8 @@ Read the documentation to know how to integrate your application with the librar
    data-customer-country-code="973"
 />
 ```
-[![Edit static](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/jl87z8jqxv)
+
+[![Edit static](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/my09713z28?fontsize=14)
 ## Overview
 
 PayTabs Express Checkout is a solution that provides an efficient checkout process for online
@@ -90,7 +91,7 @@ payment is complete.
 
 | Element                                              | Description                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `data-ui-type` <br/> <label>`String`</label>         | User interface implementation, the option allows you to customize express checkout and choose between three different option<br/> `Button` Default, Express Checkout Button is displayed and when clicked will load Express Checkout popup <br/>`Iframe` Loads Express Checkout as an embedded iframe <br/>`Click` You can use this with your custom checkout button and use `Paytabs.oPenPaymentPage()` with JS or after ajax requests |
+| `data-ui-type` <br/> <label>`String`</label>         | User interface implementation, the option allows you to customize express checkout and choose between three different option<br/> `Button` Default, Express Checkout Button is displayed and when clicked will load Express Checkout popup <br/>`Iframe` Loads Express Checkout as an embedded iframe <br/>`Click` You can use this with your custom checkout button and use `Paytabs.openPaymentPage()` with JS or after ajax requests |
 | `data-ui-element-id`<br/> <label>`String`</label>    | Dom element id to show payment page                                                                                                                                                                                                                                                                                                                                                                                                     |
 | `data-is-popup`<br/> <label>`Boolean`</label>        | Show payment page as popup full screen if you pass as `true`                                                                                                                                                                                                                                                                                                                                                                            |
 | `data-color` <br/> <label>`String`</label>           | Payment page theme color <br/> Default color `#0075c9`                                                                                                                                                                                                                                                                                                                                                                                  |
@@ -114,7 +115,7 @@ Paytabs
 
 
 
- [1]: https://docs.paytabs.com/express-checkout-v4
+ [1]: https://dev.paytabs.com/docs/express-checkout-v4/
  [2]: https://www.paytabs.com/en/support/
  [3]: https://www.paytabs.com/en/terms-of-use/
  [4]: https://www.paytabs.com/en/privacy-policy/
