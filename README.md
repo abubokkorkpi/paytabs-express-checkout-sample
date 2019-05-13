@@ -25,7 +25,8 @@ Read the documentation to know how to integrate your application with the librar
    data-customer-phone-number="5486253"
    data-customer-email-address="john.deo@paytabs.com"
    data-customer-country-code="973"
-/>
+>
+</script>
 ```
 
 [![Edit static](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/my09713z28?fontsize=14)
